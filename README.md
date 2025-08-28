@@ -1,0 +1,1 @@
+# Projeto-An-lise-Hist-rica-do-Ibovespa
