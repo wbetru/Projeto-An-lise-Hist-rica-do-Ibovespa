@@ -1,4 +1,4 @@
- # 📊 Análise Histórica do Ibovespa
+# 📊 Análise Histórica do Ibovespa
 
 Este projeto analisa o comportamento histórico do **Ibovespa (Índice Bovespa - ^BVSP)** nos últimos 5 anos, utilizando dados do **Yahoo Finance** via biblioteca `yfinance`.
 
@@ -31,12 +31,6 @@ Este projeto analisa o comportamento histórico do **Ibovespa (Índice Bovespa -
 
 ## 🖼️ Exemplos de gráficos
 
-### Evolução do Ibovespa
-![Ibovespa](imagens/ibovespa_evolucao.png)
+## Estrutura do projeto no colab
 
-### Comparação Ibovespa vs S&P500
-![Comparação](imagens/comparacao_indices.png)
-
----
-
-## 📂 Estrutura do projeto
+https://colab.research.google.com/drive/1DqhT8qDkQHFwAqXH1vIXzfOL7kb1_tOI?usp=sharing
