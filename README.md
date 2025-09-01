@@ -20,6 +20,10 @@ Este projeto analisa o comportamento histórico do **Ibovespa (Índice Bovespa -
 - **yfinance**
 
 ---
+## Estrutura do projeto no colab
+
+https://colab.research.google.com/drive/1DqhT8qDkQHFwAqXH1vIXzfOL7kb1_tOI?usp=sharing
+
 
 ## 📈 Principais análises realizadas
 1. Evolução do fechamento ajustado do Ibovespa (gráfico de linha).
@@ -28,9 +32,3 @@ Este projeto analisa o comportamento histórico do **Ibovespa (Índice Bovespa -
 4. Comparação Ibovespa x S&P 500 (base 100).
 
 ---
-
-## 🖼️ Exemplos de gráficos
-
-## Estrutura do projeto no colab
-
-https://colab.research.google.com/drive/1DqhT8qDkQHFwAqXH1vIXzfOL7kb1_tOI?usp=sharing
